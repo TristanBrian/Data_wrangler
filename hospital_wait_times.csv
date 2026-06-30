@@ -3,6 +3,7 @@ timestamp,patient_id,ward_location,priority,wait_time_min,nurse_on_duty
 09/01/2026 20:44,P-8108,Pediatrics,High,54.42199063,Staff_B
 25/01/2026 12:59,P-3100,emergency,URGENT,58.6195417,Nurse_Joy
 17/01/2026 07:47,P-8699,Emergency,High,52.55738631,Staff_A
+
 22/01/2026 06:15,P-4479,Peds,High,54.76676922,Staff_B
 03/01/2026 05:00,P-2148,General Ward,urgent,40.21022933,Nurse_Joy
 23/01/2026 21:59,P-9640,emergency,URGENT,32.27884525,Staff_B
